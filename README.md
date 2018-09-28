@@ -1,4 +1,4 @@
-# Wind_turbine_failure_prediction
+# The framework for wind turbine failure prediction
 Machine learning applied to wind turbines incipient fault detection. This is a project part of my Master's degree.
 
 There are a few publications that concerns this project. Some are published and some are in still in revision.
@@ -11,7 +11,7 @@ The main publications about my dissertations is available at the paper entitle a
 
 If you desire to use our dataset or replicate our methodology, I would appreacite if you could cite the paper. The bibtex is:
 
-'''
+```
 @article{
   rebouccas2018reliable,
   title={A reliable approach for detection of incipient faults of short-circuits in induction generators using machine learning},
@@ -22,4 +22,4 @@ If you desire to use our dataset or replicate our methodology, I would appreacit
   year={2018},
   publisher={Elsevier}
 }
-'''
+```
