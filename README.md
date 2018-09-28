@@ -4,9 +4,9 @@ Machine learning applied to wind turbines incipient fault detection. This is a p
 There are a few publications that concerns this project. Some are published and some are in still in revision.
 I'll post them out here as soon as they are released.
 
-## Publication
+## Publications
 
-The main publications about my dissertations is available at the paper entitle as [A reliable approach for detection of incipient faults of short-circuits in induction generators using machine learning☆
+The **main** publications about my dissertations is available at the paper entitle as [A reliable approach for detection of incipient faults of short-circuits in induction generators using machine learning☆
 ](https://www.sciencedirect.com/science/article/pii/S0045790618307584).
 
 If you desire to use our dataset or replicate our methodology, I would appreacite if you could cite the paper. The bibtex is:
